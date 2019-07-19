@@ -1,5 +1,5 @@
 package hello
 
-func CallFromHello() string {
+func CallHello() string {
 	return "hello golang!"
 }
